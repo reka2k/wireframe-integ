@@ -7,3 +7,5 @@ Une fois installer, lancer un terminal dans le dossier du repo et entrer les com
 npm install
 npm run dev
 ```
+
+puis appuyer sur "o" pour ouvrir le l'application dans votre navigateur.
