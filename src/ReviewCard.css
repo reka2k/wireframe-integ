@@ -1,0 +1,9 @@
+#reviewCard {
+    background-color: white;
+    color: black;
+    width: 400px;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
